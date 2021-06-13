@@ -1,0 +1,151 @@
+# Created by Octave 6.1.0, Sat May 22 11:31:52 2021 GMT <unknown@LAPTOP-IT09G602>
+# name: Earth_Vi
+# type: scalar
+29800
+
+
+# name: Earth_mass
+# type: scalar
+5.9699999999999992e+24
+
+
+# name: Earth_radius
+# type: scalar
+149600000000
+
+
+# name: Jupiter_Vi
+# type: scalar
+13100
+
+
+# name: Jupiter_mass
+# type: scalar
+1.8999999999999998e+27
+
+
+# name: Jupiter_radius
+# type: scalar
+778000000000
+
+
+# name: Mars_Vi
+# type: scalar
+24100
+
+
+# name: Mars_mass
+# type: scalar
+6.4199999999999991e+23
+
+
+# name: Mars_radius
+# type: scalar
+227999999999.99997
+
+
+# name: Mercury_Vi
+# type: scalar
+47900
+
+
+# name: Mercury_mass
+# type: scalar
+3.2999999999999996e+23
+
+
+# name: Mercury_radius
+# type: scalar
+57900000000
+
+
+# name: Neptune_Vi
+# type: scalar
+5400
+
+
+# name: Neptune_mass
+# type: scalar
+0
+
+
+# name: Neptune_radius
+# type: scalar
+4500000000000
+
+
+# name: Planets_radii
+# type: matrix
+# rows: 9
+# columns: 1
+ 696000000
+ 2440000
+ 6050000
+ 6370000
+ 3390000
+ 69900000
+ 58200000
+ 25400000
+ 24600000
+
+
+# name: Saturn_Vi
+# type: scalar
+9700
+
+
+# name: Saturn_mass
+# type: scalar
+5.6800000000000001e+26
+
+
+# name: Saturn_radius
+# type: scalar
+1430000000000
+
+
+# name: Sun_Vi
+# type: scalar
+0
+
+
+# name: Sun_mass
+# type: scalar
+1.9890000000000002e+30
+
+
+# name: Sun_radius
+# type: scalar
+0
+
+
+# name: Uranus_Vi
+# type: scalar
+6800
+
+
+# name: Uranus_mass
+# type: scalar
+8.6800000000000001e+25
+
+
+# name: Uranus_radius
+# type: scalar
+2870000000000
+
+
+# name: Venus_Vi
+# type: scalar
+35000
+
+
+# name: Venus_mass
+# type: scalar
+4.8699999999999996e+24
+
+
+# name: Venus_radius
+# type: scalar
+108000000000
+
+
