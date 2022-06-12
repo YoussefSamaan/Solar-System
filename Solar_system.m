@@ -11,9 +11,9 @@ close all
 disp("Type the number of the test run you want to try: \n1. Normal/ real conditions \n2. To show how collisions look like when they happen. \n3. To show how the first 4 planets interact with the sun if they got really close to it. \n4. To show how the first 3 planets would interact with the sun if they were close to the sun but not as close to trial no. 3 (Similar interaction to what would happen if alpha particles were shot onto a thin gold foil) and the forth planet heading directly towards the sun.");
 n = input("Test: ");
 if n == 1
-  load 'Test.mat'
-elseif n == 2
   load 'Test1.mat'
+elseif n == 2
+  load 'Test2.mat'
 elseif n == 3
   load 'Test3.mat'
 elseif n == 4
